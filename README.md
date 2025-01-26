@@ -14,8 +14,8 @@ A lightweight, dependency-free JavaScript loading overlay library. Create loadin
 ## Installation
 
 ```html
-<link rel="stylesheet" href="busyLoad.css">
-<script src="busyLoad.js"></script>
+<link rel="stylesheet" href="busy-load.css">
+<script src="busy-load.js"></script>
 ```
 
 ## Basic Usage
